@@ -13,6 +13,5 @@
     <button onclick="addTask()">Adicionar</button>
     <ul id="task-list"></ul>
   </div>
-  <script src="script.js"></script>
 </body>
 </html>
